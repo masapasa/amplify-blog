@@ -28,5 +28,35 @@
         }
       }
     }
+  },
+  "devv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyblog-devv-150314-authRole",
+      "UnauthRoleArn": "arn:aws:iam::779061781029:role/amplify-amplifyblog-devv-150314-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::779061781029:role/amplify-amplifyblog-devv-150314-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyblog-devv-150314-deployment",
+      "UnauthRoleName": "amplify-amplifyblog-devv-150314-unauthRole",
+      "StackName": "amplify-amplifyblog-devv-150314",
+      "StackId": "arn:aws:cloudformation:us-east-1:779061781029:stack/amplify-amplifyblog-devv-150314/2fa203f0-f96a-11ed-b305-0acf0a830499",
+      "AmplifyAppId": "d3jsbc318pa8hb"
+    },
+    "categories": {
+      "auth": {
+        "amplifybloga38e0c2b": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3jsbc318pa8hb",
+          "type": "cicd"
+        }
+      },
+      "api": {
+        "amplifyblog": {}
+      },
+      "storage": {
+        "postImages": {}
+      }
+    }
   }
 }
